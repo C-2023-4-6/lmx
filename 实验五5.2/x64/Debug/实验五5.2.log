@@ -1,0 +1,3 @@
+﻿  student.cpp
+x64\Debug\student.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  实验五5.2.vcxproj -> F:\源\实验五5.2\x64\Debug\实验五5.2.exe
